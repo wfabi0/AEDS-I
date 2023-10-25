@@ -1,4 +1,4 @@
-# Atividade 6 - Listas com Arranjo
+# Atividade 6 - Lista com Arranjo
 
 Ajuste o código de lista com arranjos desenvolvido em sala para que o programa:
 - Trabalhe com código, nome, editora e ano dos livros;
